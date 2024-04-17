@@ -1,0 +1,7 @@
+C:\Users\HUAWEI\Desktop\console4\bin\Debug\var_4.exe.config
+C:\Users\HUAWEI\Desktop\console4\bin\Debug\var_4.exe
+C:\Users\HUAWEI\Desktop\console4\bin\Debug\var_4.pdb
+C:\Users\HUAWEI\Desktop\console4\obj\Debug\console.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\console4\obj\Debug\console.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\console4\obj\Debug\var_4.exe
+C:\Users\HUAWEI\Desktop\console4\obj\Debug\var_4.pdb

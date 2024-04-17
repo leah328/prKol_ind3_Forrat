@@ -1,0 +1,20 @@
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\bin\Debug\адрес.exe.config
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\bin\Debug\адрес.exe
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\bin\Debug\адрес.pdb
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\obj\Debug\адрес.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\obj\Debug\адрес.Form1.resources
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\obj\Debug\адрес.Properties.Resources.resources
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\obj\Debug\адрес.csproj.GenerateResource.cache
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\obj\Debug\адрес.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\obj\Debug\адрес.exe
+C:\Users\diana\OneDrive\Рабочий стол\nikita\адрес\obj\Debug\адрес.pdb
+C:\Users\HUAWEI\Desktop\form1\bin\Debug\адрес.exe.config
+C:\Users\HUAWEI\Desktop\form1\bin\Debug\адрес.exe
+C:\Users\HUAWEI\Desktop\form1\bin\Debug\адрес.pdb
+C:\Users\HUAWEI\Desktop\form1\obj\Debug\адрес.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\form1\obj\Debug\адрес.Form1.resources
+C:\Users\HUAWEI\Desktop\form1\obj\Debug\адрес.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\form1\obj\Debug\адрес.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\form1\obj\Debug\адрес.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\form1\obj\Debug\адрес.exe
+C:\Users\HUAWEI\Desktop\form1\obj\Debug\адрес.pdb
